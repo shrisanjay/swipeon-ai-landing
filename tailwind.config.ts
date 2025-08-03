@@ -67,14 +67,11 @@ export default {
 			},
 			backgroundImage: {
 				'hero-gradient': 'var(--hero-gradient)',
-				'feature-gradient': 'var(--feature-gradient)',
-				'cta-gradient': 'var(--cta-gradient)',
-				'footer-gradient': 'var(--footer-gradient)'
+				'feature-gradient': 'var(--feature-gradient)'
 			},
 			boxShadow: {
 				'elegant': 'var(--shadow-elegant)',
-				'glow': 'var(--shadow-glow)',
-				'warm': 'var(--shadow-warm)'
+				'glow': 'var(--shadow-glow)'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
