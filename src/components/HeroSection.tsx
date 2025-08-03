@@ -18,7 +18,7 @@ const HeroSection = () => {
       
       <div className="relative z-10 container mx-auto px-4 text-center text-white">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-          Migrate to AI.
+          Transforming your vision into Ai Powered reality
           <br />
           <span className="bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent">
             Transform Your Business.
