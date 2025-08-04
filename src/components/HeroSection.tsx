@@ -18,15 +18,14 @@ const HeroSection = () => {
       
       <div className="relative z-10 container mx-auto px-4 text-center text-white">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-          Migrate to AI.
           <br />
           <span className="bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent">
-            Transform Your Business.
+          Transforming your vision into Ai Powered reality.
           </span>
         </h1>
         
         <p className="text-lg md:text-xl lg:text-2xl mb-8 max-w-4xl mx-auto leading-relaxed opacity-90">
-          At Swipeon, we make your digital journey seamless by migrating and supporting your business from any existing platform to customized Artificial Intelligence (AI) solutions.
+          At Swepio, we make your digital journey seamless by migrating and supporting your business from any existing platform to customized Artificial Intelligence (AI) solutions.
         </p>
         
         <Button variant="hero" size="lg" className="px-8 py-6 text-lg">

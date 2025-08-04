@@ -14,6 +14,15 @@ const CallToActionSection = () => {
           <Button variant="cta" size="lg" className="px-8 py-6 text-lg bg-white text-primary hover:bg-white/90">
             Contact Us
           </Button>
+          
+          <div className="mt-8">
+            <a 
+              href="mailto:contact@swipeon.ai" 
+              className="text-xl font-semibold text-white hover:text-blue-200 transition-colors duration-200"
+            >
+              contact@swipeon.ai
+            </a>
+          </div>
         </div>
       </div>
     </section>
