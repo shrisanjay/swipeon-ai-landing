@@ -17,10 +17,10 @@ const CallToActionSection = () => {
           
           <div className="mt-8">
             <a 
-              href="mailto:contact@swipeon.ai" 
+              href="mailto:contact@swepio.ai" 
               className="text-xl font-semibold text-white hover:text-blue-200 transition-colors duration-200"
             >
-              contact@swipeon.ai
+              contact@swepio.ai
             </a>
           </div>
         </div>
