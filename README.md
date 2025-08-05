@@ -1,6 +1,6 @@
-# Swepio - AI Solutions Landing Page
+# Automatika - AI Solutions Landing Page
 
-A modern, responsive landing page for Swepio AI Solutions built with React, TypeScript, and Tailwind CSS.
+A modern, responsive landing page for Automatika AI Solutions built with React, TypeScript, and Tailwind CSS.
 
 ## Features
 
@@ -32,7 +32,7 @@ A modern, responsive landing page for Swepio AI Solutions built with React, Type
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd swepio-ai-landing
+cd automatika-ai-landing
 ```
 
 2. Install dependencies:

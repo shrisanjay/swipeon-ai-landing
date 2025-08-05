@@ -6,7 +6,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex flex-col">
           <div className="text-2xl font-bold bg-hero-gradient bg-clip-text text-transparent">
-            Swepio
+            Automatika
           </div>
           <div className="text-sm font-medium bg-hero-gradient bg-clip-text text-transparent">
             Ideas in. Intelligence out.
